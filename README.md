@@ -1,2 +1,2 @@
 # calcJs
- Uma Calculadora Simples feita com Html ,CSS e JavaScruipt
+ Uma Calculadora Simples feita com Html ,CSS e JavaScript
